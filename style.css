@@ -1,0 +1,39 @@
+
+
+body {
+background-color : blue;
+font-size: 30 px;
+line-height:1;}
+
+h1 {color : green;}
+
+h3 { color :  blue }
+
+
+
+.container {
+width:400 px;
+margin: 400 px auto;
+text-align: center;
+}
+
+.card-white {
+background-color : white;
+padding : 40 px;
+border-radius: 4px;
+margin: 20px 0px;
+
+}
+
+.img-circle {border-radius: 50%;}
+
+.list-inline {
+list-style : none;
+padding-left: 0px;
+padding-top: 20px;
+
+}
+
+.list-inline2 {
+list-style: none;
+padding-left: 0px;
